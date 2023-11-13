@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Jet";
+  src: url(JetBrainsMonoNL-Regular.ttf);
+}
+
+h1 {
+  font-family: "Jet";
+}
+
+img {
+  mix-blend-mode: multiply;
+}
+
+.png_drag:hover {
+  cursor: hand;
+  border: 3px dotted #666;
+}
